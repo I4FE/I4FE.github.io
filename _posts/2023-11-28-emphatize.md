@@ -1,6 +1,7 @@
 ---
 title: 필요발견하기
 tags: HCI
+typora-root-url: ../
 ---
 
 
@@ -31,7 +32,7 @@ tags: HCI
 
 ### 공감지도:
 
-![Empathy_Map](..\assets\images\2023-11-28-emphatize\Empathy_Map.jpg)
+![Empathy_Map](/images/2023-11-28-emphatize/Empathy_Map-1701417607764-2.jpg)
 
 - SAY: 인터뷰 참가자가 말한 단어들
 - DO: 참가자들의 행동
