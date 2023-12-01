@@ -31,7 +31,7 @@ tags: HCI
 
 ### 공감지도:
 
-![Empathy_Map](../assets/images/2023-11-28-emphatize/Empathy_Map.jpg)
+![Empathy_Map](..\assets\images\2023-11-28-emphatize\Empathy_Map.jpg)
 
 - SAY: 인터뷰 참가자가 말한 단어들
 - DO: 참가자들의 행동

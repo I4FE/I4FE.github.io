@@ -26,8 +26,6 @@ titles:
 key: page-about
 ---
 
-# I.4.F.E 는 모두와 함께 합니다.
-
 
 
 ### I.4.F.E
