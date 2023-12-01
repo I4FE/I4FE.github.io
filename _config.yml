@@ -28,7 +28,7 @@ description: > "I.4.F.E는 모두와 함께 합니다"
 ## => Language and Timezone
 ##############################
 lang: "en"
-timezone: Asia/Seoul
+timezone: 
 
 
 ## => Author and Social
