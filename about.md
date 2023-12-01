@@ -26,49 +26,40 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+# I.4.F.E 는 모두와 함께 합니다.
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
 
-## Features
+### I.4.F.E
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+팀 I.4.F.E는 Industry 4 For Everyone의 줄임말로 지식 공유, 교육, 그리고 지속 가능한 성장을 통해 모든 이가 현대 산업 환경에서 발생하는 변화에 참여하고 이를 성공적으로 적용할 수 있도록 지원하는 것을 목표로 합니다. 우리는 혁신적인 기술을 보다 폭넓게 이해하고 사용할 수 있도록 함으로써 미래 산업에 대한 지속적인 성장과 발전을 이끌어 나가고자 합니다.
 
-## Skins
 
-TeXt has 6 built-in skins, you can also set up your own skin.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+### 지박사
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+"지박사"는 노인분들께 스마트폰 사용에 도움을 제공하며, ChatGPT 기술을 활용하여 상호작용하는 스마트폰 사용 설명 앱입니다.
 
-### Highlight Theme
+지박사는 최신 LLM(Large Language Model)기술 중 하나인 ChatGPT를 활용하여 자연스러운 대화를 제공하며, 스마트폰의 다양한 기능과 어플리케이션 사용법을 상세히 안내합니다. 언제든지 궁금한 것이나 어려움이 있다면 지박사에게 물어보세요! 노인분들의 편의를 위해 직관적이고 이해하기 쉬운 설명으로 스마트폰을 사용하는 방법을 알려드릴 것입니다.
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+여러분의 편안한 디지털 라이프를 지원하기 위해 항상 여러분과 함께할 것입니다.
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+
+
+### 팀원
+
+#### 김민욱
+
+Department of Computer Science, University of Seoul
+
+역할:
+
+
+
+### 팀원
+
+#### 노강준
+
+Department of Artificial Intelligence, University of Seoul
+
+역할:
