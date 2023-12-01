@@ -1,6 +1,7 @@
 ---
 title: Low-fi 프로토타입
 tags: HCI
+typora-root-url: ../
 ---
 
 
@@ -9,11 +10,7 @@ tags: HCI
 
 ### 디자인 스케치
 
-![clip_image002](D:\Desktop\blog\I4FE.github.io\clip_image002.jpg)
-
-
-
-
+![clip_image002](/images/2023-11-28-Low-fi-prototype/clip_image002.jpg)![clip_image004](/images/2023-11-28-Low-fi-prototype/clip_image004.jpg)
 
 
 
@@ -29,11 +26,11 @@ tags: HCI
 
 paper prototype 방식 사용
 
-![img](file:///C:/Users/MINUK/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)![img](file:///C:/Users/MINUK/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![img](/images/2023-11-28-Low-fi-prototype/clip_image002-1701417830436-8.jpg)!![img](/images/2023-11-28-Low-fi-prototype/clip_image004-1701417830437-9.jpg)
+
+![img](/images/2023-11-28-Low-fi-prototype/clip_image002-1701417884616-12.jpg) ![img](/images/2023-11-28-Low-fi-prototype/clip_image004-1701417884616-13.jpg)
 
 
-
-![img](file:///C:/Users/MINUK/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg) ![img](D:\Desktop\blog\Nanminuk.github.io\images\2023-11-28-Low-fi-prototype\clip_image008.jpg)
 
 
 
