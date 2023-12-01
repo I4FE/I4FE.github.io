@@ -20,8 +20,8 @@ text_skin: forest #(default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : "https://I4FE.github.io"
 baseurl : # does not include hostname
-title   : I.4.F.E
-description: > I.4.F.E는 모두와 함께 합니다
+title   : "I.4.F.E"
+description: >
 
 
 ## => Language and Timezone
