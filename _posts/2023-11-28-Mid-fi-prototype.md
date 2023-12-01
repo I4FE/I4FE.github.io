@@ -3,7 +3,7 @@ title: Mid-fi 프로토타입
 tags: HCI
 ---
 
-# Mid-fi Prototype
+
 
 
 
