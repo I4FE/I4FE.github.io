@@ -27,7 +27,7 @@ description: >
 
 ## => Language and Timezone
 ##############################
-lang: "en"
+lang: "ko-KR"
 timezone: 
 
 
@@ -35,10 +35,10 @@ timezone:
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : I.4.F.E
+  name      : "I.4.F.E"
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : 김민욱, 노강준
+  bio       : "김민욱, 노강준"
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
