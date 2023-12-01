@@ -21,8 +21,7 @@ highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "
 url     : "https://I4FE.github.io"
 baseurl : # does not include hostname
 title   : I.4.F.E
-description: > "I.4.F.E는 모두와 함께 합니다"
-  Your Site Description
+description: > I.4.F.E는 모두와 함께 합니다
 
 
 ## => Language and Timezone
