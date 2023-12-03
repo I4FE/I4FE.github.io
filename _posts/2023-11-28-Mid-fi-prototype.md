@@ -5,8 +5,6 @@ tags: HCI
 
 
 
-
-
 ### 프토로타입 링크:
 
 [Mid-fi Prototype]: https://738106.invisionapp.com/overview/%EC%A7%80%EB%B0%95%EC%82%AC-clovnq13203bx0180ekni1s1q/screens?share=&amp;amp;sortBy=1&amp;amp;sortOrder=1&amp;amp;viewLayout=2
@@ -32,4 +30,6 @@ Midium-fi prototype
 - 음성인식 기능이 실제로 구현 X
 - 앱 인터페이스(배경,글자 크기) 등 수정 필요
 ```
+
+
 

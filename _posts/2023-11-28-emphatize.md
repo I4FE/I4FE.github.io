@@ -5,9 +5,6 @@ typora-root-url: ../
 ---
 
 
-
-
-
 노인 스마트폰 사용자를 타겟 유저로 설정하였고 Needs 와 Insights를 파악하기 위해 인터뷰를 진행했다.
 
 ### 인터뷰:
@@ -38,3 +35,9 @@ typora-root-url: ../
 - DO: 참가자들의 행동
 - THINK: 참가자의 생각 추론
 - FEEL: 사용자의 감정으로부터 도출
+
+
+
+### 발표자료:
+
+[https://drive.google.com/file/d/1qhHZMhwJgZb8RNb0-aU8VUzYPdkyJec8/view?usp=drive_link](https://drive.google.com/file/d/1qhHZMhwJgZb8RNb0-aU8VUzYPdkyJec8/view?usp=drive_link)

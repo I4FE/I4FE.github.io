@@ -5,9 +5,6 @@ typora-root-url: ../
 ---
 
 
-
-
-
 ### 디자인 스케치
 
 ![clip_image002](/images/2023-11-28-Low-fi-prototype/clip_image002.jpg)![clip_image004](/images/2023-11-28-Low-fi-prototype/clip_image004.jpg)
@@ -29,6 +26,9 @@ paper prototype 방식 사용
 ![img](/images/2023-11-28-Low-fi-prototype/clip_image002-1701417830436-8.jpg)!![img](/images/2023-11-28-Low-fi-prototype/clip_image004-1701417830437-9.jpg)
 
 ![img](/images/2023-11-28-Low-fi-prototype/clip_image002-1701417884616-12.jpg) ![img](/images/2023-11-28-Low-fi-prototype/clip_image004-1701417884616-13.jpg)
+
+
+
 
 
 
