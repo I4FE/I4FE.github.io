@@ -1,6 +1,10 @@
 ---
 title: Mid-fi 프로토타입
 tags: HCI
+article_header:
+  type: cover
+  image:
+    src: /screenshot.jpg
 ---
 
 
