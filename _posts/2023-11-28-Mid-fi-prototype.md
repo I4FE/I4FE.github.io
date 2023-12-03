@@ -31,3 +31,9 @@ Midium-fi prototype
 
 
 
+
+
+### 발표자료:
+
+[https://drive.google.com/file/d/1yhlb7DUh10lEaJOpViKocV1S_KgnRAOX/view?usp=drive_link](https://drive.google.com/file/d/1yhlb7DUh10lEaJOpViKocV1S_KgnRAOX/view?usp=drive_link)
+

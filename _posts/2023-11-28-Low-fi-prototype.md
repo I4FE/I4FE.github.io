@@ -31,6 +31,11 @@ paper prototype 방식 사용
 
 
 
+### 발표자료:
+
+[https://drive.google.com/file/d/1KvnNL715xdrXQVymL0r4DF8vlWbcig0_/view?usp=drive_link](https://drive.google.com/file/d/1KvnNL715xdrXQVymL0r4DF8vlWbcig0_/view?usp=drive_link)
+
+
 
 
 
