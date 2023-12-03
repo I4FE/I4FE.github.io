@@ -50,7 +50,7 @@ key: page-about
 
 Department of Computer Science, University of Seoul
 
-역할:
+역할: 웹사이트 제작 및 관리, 앱 인터페이스 제작
 
 
 
@@ -60,4 +60,4 @@ Department of Computer Science, University of Seoul
 
 Department of Artificial Intelligence, University of Seoul
 
-역할:
+역할: LLM API유지 및 관리, 앱 인터페이스 제작
