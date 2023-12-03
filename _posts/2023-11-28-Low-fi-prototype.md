@@ -39,5 +39,3 @@ paper prototype 방식 사용
 
 
 
-
-
