@@ -4,7 +4,7 @@ tags: HCI
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: /g-doctor_mid.jpg
 ---
 
 
