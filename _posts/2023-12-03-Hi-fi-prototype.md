@@ -13,13 +13,15 @@ tags: HCI
 
 Hi-fi 프로토타입 링크:
 
-[https://drive.google.com/file/d/1iFvtxkk_QAzALGRVV_oUhkw-wn8USc6C/view?usp=drive_link](https://drive.google.com/file/d/1iFvtxkk_QAzALGRVV_oUhkw-wn8USc6C/view?usp=drive_link)
+https://drive.google.com/file/d/10Pus3FNBsapnmYC3m0o-ZzRddaTlgoMU/view?usp=sharing
 
 
 
 현재 음성인식과 chatGPT와의 연동은 API키 이슈로 아직 구현되지 않았다.
 
 -2023-12-04: chatGPT 연동 성공
+
+-2023-12-12: 디자인 세부 수정
 
 
 ### README
