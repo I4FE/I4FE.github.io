@@ -13,7 +13,7 @@ tags: HCI
 
 Hi-fi 프로토타입 링크:
 
-https://drive.google.com/file/d/10Pus3FNBsapnmYC3m0o-ZzRddaTlgoMU/view?usp=sharing
+https://drive.google.com/file/d/1s3K2k14S1VSqcHO81jABbu7vixcWEx6j/view?usp=sharing
 
 
 
