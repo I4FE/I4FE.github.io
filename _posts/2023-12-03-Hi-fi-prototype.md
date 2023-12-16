@@ -27,8 +27,7 @@ https://drive.google.com/file/d/1s3K2k14S1VSqcHO81jABbu7vixcWEx6j/view?usp=shari
 ### README
 
 ```README
-Hi-fi prototype
-:
+Hi-fi prototype:
 
 본 프로토타입은 노인 사용자의 스마트폰 사용능력을 지속적으로 향상시키는데 목표를 두었습니다. 사용자는 음성을 통해 자신의 질문을 앱에 전달하고 앱으로부터 질문에 대한 답변을 제공받습니다.
  
