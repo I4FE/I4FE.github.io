@@ -60,4 +60,4 @@ Department of Computer Science, University of Seoul
 
 Department of Artificial Intelligence, University of Seoul
 
-역할: LLM API 적용 및 관리, 앱 인터페이스 제작
+역할: LLM 프롬프트 엔지니어링, 앱 인터페이스 제작
